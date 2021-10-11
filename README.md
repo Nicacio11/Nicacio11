@@ -10,7 +10,7 @@
   👨‍🎓 Information System - Universidade Estácio de Sá
 </p>
 <p align="center">
-  👨‍💻 Currently working with .NET at IMAP.
+  👨‍💻 Currently working with .NET at Institulo Atlântico :rocket:.
 </p>
 <p align="center">
  AND
