@@ -3,7 +3,7 @@
   </p>
 
 <p align="center">
-  👋 Hey, I’m Vítor Nicácio, 25 years old, Software developer, born and raised on Salvador,Bahia.
+  👋 Hey, I’m Vítor Nicácio, 26 years old, Software developer, born and raised on Salvador,Bahia.
   
 </p>
 <p align="center">
